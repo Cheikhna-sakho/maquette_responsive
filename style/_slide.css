@@ -1,0 +1,50 @@
+#slide{
+    margin: auto;
+    margin-top: 2%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#left{
+    cursor: pointer;
+    position: absolute;
+    margin-left: 18%;
+    margin-top: 15%;
+}
+
+#right{
+    cursor: pointer;
+    position: absolute;
+    margin-left: 79%;
+    margin-top: 15%;
+}
+
+#slide__div_img img{
+    display: none;
+}
+
+#slide__div_img img.start{
+    display: block;
+}
+
+#slide__div_img img{
+    width: 100%;
+    height: 100%;
+}
+#slide__span{
+    padding-bottom: 2%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+.rond{
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: rgb(155, 151, 151);
+    border-radius: 50%;
+    display: inline-block;
+    /* transition: background-color 0.6s ease; */
+}

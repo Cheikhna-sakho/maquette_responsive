@@ -1,0 +1,13 @@
+#flag{
+    gap: 25px;
+}
+
+.flag_div_img img{
+    width: 100%;
+    border: 7px double rgba(221,221,221,255);
+}
+
+.flag_div_img h4{
+    font-family: sans-serif;
+    margin-right: 6%;
+}

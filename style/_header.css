@@ -1,0 +1,20 @@
+header{
+    background-color:  var(--blue-bg);
+}
+.menu{
+    justify-content: space-between;
+    border-top: 2px black solid;
+}
+.menu img{
+    width: 350px;
+}
+
+#menu__list{
+    align-items: center;
+    list-style: none;
+}
+
+#menu__list li{
+    font-family: sans-serif;
+    margin-right: 10px;
+}

@@ -1,0 +1,15 @@
+footer{
+    padding-top:16px;
+    
+    height: 100%;
+    background-color: rgba(154,153,255,255);
+}
+
+footer li{
+    font-family: sans-serif;
+    margin-right: 5%;
+}
+
+footer p{
+    color: rgba(134,125,152,255);
+}
